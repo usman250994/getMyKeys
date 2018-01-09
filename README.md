@@ -2,8 +2,11 @@
 returns an Object with the keys needed, from a nested object or from an array of nested objects
 
 Params: 
+
  1st argument should be any object or set of objects packed in an array.
+ 
  2nd argument: should be the name of a key to be found in an array or multiple key names packed in an array.
+ 
  
  Algorithmic Behavior: 
  

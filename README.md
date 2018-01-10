@@ -22,9 +22,10 @@ Params:
    
    https://jsfiddle.net/t08sq56c/13/
    
+   Install Node Module:
    
-   node Module Comming Soon.
-   
+   npm install uas-get-my-keys
+   
    EXAMPLE:
 
   input params 1; Array Of Objects 

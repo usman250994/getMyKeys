@@ -30,16 +30,16 @@ Params:
   input params 1; Array Of Objects 
  [
  
-  { k1:'KEY1', k2:'KEY1', k3:'KEY2'} 
+  {  k1: 'KEY1', k2: 'KEY1', k3: 'KEY2' } 
   
   
-  { k4:'KEY4', k5:'KEY5', k6:'KEY6'}
+  {  k4: 'KEY4', k5: 'KEY5', k6: 'KEY6' }
   
   
-  { k7:'KEY7', k8:'KEY8', k9:'KEY9'}
+  {  k7: 'KEY7', k8: 'KEY8', k9: 'KEY9' }
   
   
-  { k10:'KEY10', k11:'KEY11', k12:{ k13:'Key13', k14:'Key14', k1:'Key15'} }
+  {  k10: 'KEY10', k11: 'KEY11', k12: { k13: 'Key13', k14: 'Key14', k1: 'Key15'}   }
   
   
     ]
@@ -58,9 +58,9 @@ output object: (Returned)
  
    key1 : [ KEY1, Key15],
    
-   key5 : KEY5,
+   key5 :  KEY5,
    
-   key9 : KEY9
+   key9 :  KEY9
    
  }
 
